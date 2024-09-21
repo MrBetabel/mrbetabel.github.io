@@ -4,18 +4,7 @@ var lyrics = document.querySelector("#lyrics");
 
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
-  { text: "They call me new thang", time: 24 },
-  { text: "신병 왔다 짐을 받어", time: 27 },
-  { text: "Whole world, concert", time: 28 },
-  { text: "꽤 먹히는 Asiana Asia", time: 29 },
-  { text: "You could be my new thang", time: 30 },
-  { text: "근무태만 형들 과는 달러", time: 32 },
-  { text: "유명인의 하극상 damn", time: 34 },
-  { text: "쎈 놈만 덤벼", time: 35 },
-  { text: "어떤 이는 내가 이 자릴 쉽게 앉았다고 해", time: 38 },
-  { text: "Fuck you 난 성공과", time: 41 },
-  { text: "거리가 먼 형들 사이 눈엣가시네", time: 43 },
-  { text: "솔직히 싸이하누월 쪽팔려", time: 45 },
+
 
 ];
 
